@@ -1,0 +1,6 @@
+@WebScraping_HostAddress = http://localhost:5225
+
+GET {{WebScraping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
